@@ -1,7 +1,3 @@
----
-description: // general into to netrc writings
----
-
 # netrc - syllabus
 
 This is a meta-book outlining other books, writings, etc
